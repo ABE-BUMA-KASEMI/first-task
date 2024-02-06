@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    min-height: 100%;
+    background-color: gray;
+}
+
+div#header{
+    width: 550px;
+    height: 600px;
+    background-color: white;
+    margin: auto;
+    display: block;
+    margin-top: 10%;
+    
+}
+div#main{
+    padding-left: 15%;
+    padding-top: 100px;
+    line-height:3em ;
+}
+
+img{
+    padding-left: 30%;
+}
+
+
+input[type="text"]{
+    width: 80%;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding-top: 0%;
+}
+
+input[type="button"]{
+    width: 80%;
+    height: 45px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+}
+
+#two{
+    padding-left: 20%;
+}
+
+p{
+    color:rgba(0, 0, 0, 0.788);
+}
+
+hr{
+    width: 80%;
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+
+}
+
+
+
+span#two{
+    color:rgba(0, 0, 0, 0.788) ;
+    background-color: white;
+    border-top: -10px;
+    width: fit-content;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    padding-left: 2%;
+
+    display: block;
+    margin: auto;
+    margin-top: -30px;
+    background: #fff;
+    position: relative;
+    top: auto;
+    right: 10%;
+}
+
+button{
+    width: 80%;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+img#two {
+    width: 9%;
+    padding: 3px;
+    margin: auto;
+
+}
+
+img#me{
+    width: 13%;
+    background-color: rgb(0, 200, 255);
+    /* border: 1px solid #444; */
+    display: block;
+    padding: 7px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 1%;
+    right: 10%;
+    border-radius: 5px;
+}
+

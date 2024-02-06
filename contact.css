@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-style: monospace;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: orange;
+    margin: auto;
+}
+
+div#header{
+    width: 90%;
+    font-size: 18px;
+    font-weight: bold;
+    color:whitesmoke;
+    min-height: 350px;
+    border: 1px solid #444;
+    margin-left: 1.5em;
+    margin-top: 10em;
+}
+
+p{
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+img#git{
+    width: 20%;
+    filter: invert(100%) sepia(5%) saturate(2%) hue-rotate(113deg) brightness(111%) contrast(100%);;
+}
+
+img#form{
+    width: 20%;
+    filter: invert(100%) sepia(5%) saturate(2%) hue-rotate(113deg) brightness(111%) contrast(100%);;
+    display: inline;
+    flex: left;
+}
+img#arc{
+    width: 20%;
+    filter: invert(100%) sepia(5%) saturate(2%) hue-rotate(113deg) brightness(111%) contrast(100%);;
+    float: ;
+}
+
+div#one{
+    display: block;
+    padding-top:;
+}
