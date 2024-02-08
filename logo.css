@@ -16,6 +16,7 @@ div#header{
     width: 100%;
     min-height: 600px;
     margin: auto;
+    margin-top: 10%;
 }
 
 .clearfix::after{
